@@ -1,6 +1,6 @@
 package InheritanceProject.model;
 
-abstract public class Sword extends GameItem
+abstract public class Sword extends GameItem Comparable
 {
 	private double damage;
 	private double length;

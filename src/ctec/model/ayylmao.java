@@ -1,7 +1,7 @@
 package ctec.model;
 
 public class ayylmao 
-
+{
 	package ayylmao.model;
 
 	public interface AyyLmaoInterface
